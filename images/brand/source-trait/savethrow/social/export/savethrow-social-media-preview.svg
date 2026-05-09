@@ -1,0 +1,32 @@
+<!--
+SaveThrow Social Media Preview
+Copyright (C) 2025 Asmov LLC https://asmov.software
+License AGPL3 https://www.gnu.org/licenses/agpl-3.0.txt
+-->
+<svg
+    version="1.1" xmlns="http://www.w3.org/2000/svg"
+    width="1280" height="640"
+    viewBox="0 0 1280 640">
+<style>
+    svg {
+        background: #0d1117;
+    }
+
+    text {
+        fill: red;
+        font-family: sans-serif;
+        font-weight: bold;
+        dominant-baseline: hanging;
+        font-size: 120px;
+    }
+</style>
+
+<!-- <rect fill="red" stroke="none" x="78" y="78" width="1124" height="483" /> -->
+
+<image href="../../logo/savethrow.svg"
+    width="241" height="241"
+    x="78" y="198" />
+
+<text x="340" y="198">savethrow</text>
+
+</svg>

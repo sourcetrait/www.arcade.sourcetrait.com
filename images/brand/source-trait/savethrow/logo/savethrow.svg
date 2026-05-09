@@ -1,0 +1,33 @@
+<!--
+SaveThrow Logo
+Copyright (C) 2025 Asmov LLC https://asmov.software
+License AGPL3 https://www.gnu.org/licenses/agpl-3.0.txt
+-->
+<svg
+    version="1.1" xmlns="http://www.w3.org/2000/svg"
+    width="800" height="800"
+    viewBox="0 0 800 800">
+<style>
+    svg {
+        fill: red;
+        stroke: red;
+        stroke-width: 40;
+    }
+
+    rect {
+        stroke: none;
+    }
+</style>
+
+<rect x="5" y="5" width="200" height="200" />
+<rect x="5" y="295" width="200" height="200" />
+<rect x="5" y="595" width="200" height="200" />
+
+<rect x="295" y="5" width="200" height="200" />
+<rect x="295" y="595" width="200" height="200" />
+
+<rect x="595" y="5" width="200" height="200" />
+<rect x="595" y="295" width="200" height="200" />
+<rect x="595" y="595" width="200" height="200" />
+
+</svg>
